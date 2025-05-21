@@ -1,9 +1,5 @@
 # versora_4
-
-For a smooth hand-off to another developer or team, your repo should be self-contained, well-documented, and easy to boot up. Here’s a “gold-standard” layout plus supporting artifacts you can include:
-
 ---
-
 ## 1. Clean, Intuitive Directory Structure
 
 ```
